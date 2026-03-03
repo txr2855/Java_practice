@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1hehlloworld/1hehlloworld.iml" filepath="$PROJECT_DIR$/1hehlloworld/1hehlloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1helloworld/day1helloworld.iml" filepath="$PROJECT_DIR$/day1helloworld/day1helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaseproject.iml" filepath="$PROJECT_DIR$/javaseproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
