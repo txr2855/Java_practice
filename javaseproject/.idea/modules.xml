@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1hehlloworld/1hehlloworld.iml" filepath="$PROJECT_DIR$/1hehlloworld/1hehlloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03-flow-control/day03-flow-control.iml" filepath="$PROJECT_DIR$/day03-flow-control/day03-flow-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0405-oop/day0405-oop.iml" filepath="$PROJECT_DIR$/day0405-oop/day0405-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1helloworld/day1helloworld.iml" filepath="$PROJECT_DIR$/day1helloworld/day1helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/day2-basic/day2-basic.iml" filepath="$PROJECT_DIR$/day2-basic/day2-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaseproject.iml" filepath="$PROJECT_DIR$/javaseproject.iml" />
